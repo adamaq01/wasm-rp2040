@@ -1,0 +1,6 @@
+/build
+target/
+Cargo.lock
+.vscode/
+*.wasm
+*.wasm.h
